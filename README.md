@@ -1,6 +1,7 @@
 # FriendlyChat-GoogleCloud
-Creating Firebase FriendlyChat for Google Cloud instance using Ubuntu 16.04 
-
+<p> Creating Firebase FriendlyChat for Google Cloud instance using Ubuntu 16.04 </p>
+<p> Following <a href="https://codelabs.developers.google.com/codelabs/firebase-web/">this guide.</a>
+  
 ## What you need:
 <ul>
   <li> nginx </li>
